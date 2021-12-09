@@ -3,3 +3,13 @@ h1{
     font-size: xx-large;
     color: aqua;
 }
+h2{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+
+.img-same-width{
+    width: 300px;;
+}
